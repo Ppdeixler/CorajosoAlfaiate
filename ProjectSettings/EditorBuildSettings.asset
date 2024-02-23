@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Inicial.unity
+    guid: adf56b1a3c3c5084cb5bbb240931726a
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 490d9ec327cd22343adea269073b36a2
+  - enabled: 1
+    path: Assets/Scenes/Mosca.unity
+    guid: 997112c9aabaeb148b5b871ea03ac4a5
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel1_Casa.unity"
+    guid: bd4758df8ae158841bf45e753c650ed2
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel2_Floresta.unity"
+    guid: a4a1d7f7ce1bacb4981abf7885ecbcbf
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel3_Gigante.unity"
+    guid: 0a702bff641242f42868ff788db9120b
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel4_Vila_Castelo.unity"
+    guid: 109c159b2ef45cd4ca2646c618adc2b4
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel5_Castelo.unity"
+    guid: 0b0c25b65c0eb734b84af95682486349
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel6_Fadas.unity"
+    guid: dc9d080f5fdd3d8478fa5fb45dbf8b34
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel_Rumpel.unity"
+    guid: b1f718ac129f6244790669ecf8ad0f0a
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel7_Unic\xF3rnio.unity"
+    guid: 698c291f59e25ab458ed83ce3874a47f
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel8_Haunted.unity"
+    guid: 04654c8b73515034b9ae4db1c1a0e084
+  - enabled: 1
+    path: "Assets/Scenes/N\xEDvel_9Caverna.unity"
+    guid: 2a25c106c065f154c83005611266847a
+  - enabled: 1
+    path: Assets/Scenes/Harpa.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Fim.unity
+    guid: 90fceea2941c29f4997f87d988cf3afb
+  m_configObjects: {}
